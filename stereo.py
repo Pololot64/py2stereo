@@ -1,4 +1,4 @@
-#Py2Stereo Copyright Paul-E 2019 (Opticos Studios)
+#Py2Stereo Copyright Paul-E 2020 (Opticos Studios)
 import pygame, sys, random
 from pygame.locals import *
 import pygame.gfxdraw
