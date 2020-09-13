@@ -1,3 +1,4 @@
+#this is a demo project.
 import stereo
 import pygame, random, sys
 stereo.init()
